@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  width="100px"
+  height="100px"
+  viewBox="0 0 100 100"
+  xml:space="preserve"
+>
+    <circle fill="#4D5B9E" stroke="none" cx="50" cy="20" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; 21 9"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="71" cy="29" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; 9 21"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.1"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="80" cy="50" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; -9 21"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.2"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="71" cy="71" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; -21 9"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.3"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="50" cy="80" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; -21 -9"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.3"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="29" cy="71" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; -9 -21"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="20" cy="50" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; 9 -21"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.5"
+    />
+    </circle>
+    <circle fill="#4D5B9E" stroke="none" cx="29" cy="29" r="5">
+        <animateTransform
+      attributeName="transform"
+      dur="0.75s"
+      type="translate"
+      values="0 0; 21 -9"
+      repeatCount="indefinite"
+      begin="0.4"
+    />
+        <animate
+      attributeName="opacity"
+      dur="1s"
+      values="0.2;1;0.2"
+      repeatCount="indefinite"
+      begin="0.6"
+    />
+    </circle>
+  
+</svg>
